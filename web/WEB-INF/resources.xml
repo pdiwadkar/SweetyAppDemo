@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="SweetyAppDB" type="javax.sql.DataSource">#Tue Apr 25 16:45:54 IST 2017
+jdbcDriver=org.postgresql.Driver
+password=
+userName=postgres
+jdbcUrl=jdbc\:postgresql\://localhost\:5433/SweetyDB
+</Resource>
+</resources>
